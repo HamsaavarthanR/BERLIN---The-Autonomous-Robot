@@ -4,9 +4,9 @@ Project: ENPM701 Autonomous Robots
 ![BERLIN](https://github.com/user-attachments/assets/e8aa95a4-56ea-4754-83fe-ad20cc66f8c5)
 
 ## Accomplishments
-•	Fabricated a fully autonomous robot, achieving level 4 autonomy: High Automation by implementing modelling and controls, perception, localization and SLAM, planning, and decision making, showcasing strong problem-solving skills.
-•	Programmed on RaspberryPi, remotely over SSH, to manipulate encoders, camera, servo and DC motors, and IMU - Arduino, using Server-Client protocol for sensor fusion accomplishing near ~100% autonomy.
-•	Accomplished task sequence with 98% motion execution accuracy by incorporating PID closed loop feedback control system for motion control, and interpret industrial hardware and software troubleshoot approach.
+* Fabricated a fully autonomous robot, achieving level 4 autonomy: High Automation by implementing modelling and controls, perception, localization and SLAM, planning, and decision making, showcasing strong problem-solving skills.
+* Programmed on RaspberryPi, remotely over SSH, to manipulate encoders, camera, servo and DC motors, and IMU - Arduino, using Server-Client protocol for sensor fusion accomplishing near ~100% autonomy.
+* Accomplished task sequence with 98% motion execution accuracy by incorporating PID closed loop feedback control system for motion control, and interpret industrial hardware and software troubleshoot approach.
 
 ## About BERLIN
 ### Hardware
