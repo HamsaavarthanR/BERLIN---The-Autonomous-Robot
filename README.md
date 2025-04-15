@@ -1,8 +1,7 @@
 # "BERLIN" The Autonomous Robot
 Project: ENPM701 Autonomous Robots
 
-
-
+![BERLIN](https://github.com/user-attachments/assets/e8aa95a4-56ea-4754-83fe-ad20cc66f8c5)
 
 ## Accomplishments
 •	Fabricated a fully autonomous robot, achieving level 4 autonomy: High Automation by implementing modelling and controls, perception, localization and SLAM, planning, and decision making, showcasing strong problem-solving skills.
